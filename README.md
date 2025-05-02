@@ -72,7 +72,7 @@ NAME: GAYATHRI K
  ![image](https://github.com/user-attachments/assets/b7e3a9c5-b50e-4df9-88fc-4c66b130b0ad)
 
 **Logic symbol & Truthtable**
-![image](https://github.com/user-attachments/assets/125ed63b-53a4-408a-be58-855c9671bf78)
+![image](https://github.com/user-attachments/assets/3256baa9-2e09-4b28-b336-f71c579a23a7)
 
 **RTL realization Output:** 
 ![image](https://github.com/user-attachments/assets/047a76c0-2d9f-4faf-b542-087b8a38bb7c)
